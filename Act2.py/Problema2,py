@@ -1,0 +1,10 @@
+num = int(input("Ingresa un número del 1 al 20 "))
+if 1 <= num <= 20:
+    fac = 1
+    res = 1
+    while fac <= num:
+        res *= fac
+        fac += 1
+        print("El factorial es: ",res )
+else:
+    print("El número debe estar entre el 1 y el 20")

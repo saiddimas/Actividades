@@ -1,0 +1,5 @@
+n = input("Ingresa una lista de números con espacios ")
+lista = list(map(int, n.split()))
+n1 = min(lista)
+n2 = max(lista)
+print("El número mayor es", n2," y el menor es", n1)
