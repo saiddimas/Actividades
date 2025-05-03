@@ -1,0 +1,2 @@
+#La funcion Merge sort ingresa los datos de la lista, despues va creando sub listas donde mete distintos elementos
+#este paso lo repite hasta tener puras listas de un elemento, despues lo unico que hace es que las va juntando en orden ascendente
